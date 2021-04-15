@@ -1,0 +1,66 @@
+{
+	"url_info":{
+		"student_visa_url":"https://online.immi.gov.au/elp/app?action=new&formId=STU-AP-500"
+	},	
+	"page1":{
+		"agreecheck":["yes","","0"],
+		"next1btn":["yes","_2a0ba0a0a0g1","0"]
+	},
+	"page2":{
+		"current_location":["AUSTRALIA","_2a0ba0a0a0e0a0a1a2d0b0_input","3"],
+		"application_type":[["2","_2a0d0a0a0e0a0a1a4b1a","2"],["2","_2a0d0a0a0e0a0a1a5b1a0","2"]],
+		"confirm_enroll":["1","_2a0d0a0a0e0a0a1a8b1a0","2"],
+
+		"add":["add","_2a0ba0a0a0e0a0a1a9d","0"],
+		"coe_code":["7D9FAC58","_2a0bi0a0a0e0b0a0b0b0_input","1"],
+		"confirm_enroll_detail":["2","_2a0bi0a0a0e0b0a0c1b0","2"],
+		"confirm":["confirm","_2a0bi0a0a0e0b3d","0"],
+
+		"other_evidence":["2","_2a0d0a0a0e0a0a1a11b1a","2"],
+		"education_sector":["Schools Sector","_2a0ba0a0a0e0a0a1a14d0b0a_input","3"],
+		"closure_education":["2","_2a0d0a0a0e0a0a1a15c1b0a","2"],
+		"commonwealth_funded":["2","_2a0d0a0a0e0a0a1a15e1b0a","2"],
+		"next2btn":["next","_2a0bg0a0a0g1","0"]
+	},
+
+	"page3":{
+		"family_name":["Harry","_2a0h0a0a0e0a0a2a6b1a1a0_input","1"],
+		"given_name":["Potter","_2a0h0a0a0e0a0a2a6b2a1a0_input","1"],
+		"gender":["M","_2a0h0a0a0e0a0a2a6c0b0","2"],
+		"date_birth" :["01 Feb 1990","_2a0h0a0a0e0a0a2a6d0b0_input","4"],
+		"passportnum":["1290","_2a0h0a0a0e0a0a2a7b0b0_input","1"],
+		"country_passport":["ALGERIA","_2a0h0a0a0e0a0a2a7c0b0_input","3"],
+		"nationality_passport":["ALGERIA","_2a0h0a0a0e0a0a2a7d0b0_input","3"],
+		"date_issue" :["01 Mar 2021","_2a0h0a0a0e0a0a2a7e0b0_input","4"],
+		"date_expiry" :["31 Mar 2021","_2a0h0a0a0e0a0a2a7f0b0_input","4"],
+		"place_issue" :["IMMIGRATION AND PASSPORT POLICE","_2a0h0a0a0e0a0a2a7h0b0_input","1"],
+		"national_id_card":["1","_2a0h0a0a0e0a0a2a9c1b0a","2"],
+
+		"add":["add","_2a0h0a0a0e0a0a2a9h3","0"],
+		"family_name2":["Harry","_2a0h0a0a0e0d0a0d1a1a0_input","1"],
+		"given_name2":["Potter","_2a0h0a0a0e0d0a0d2a1a0_input","1"],
+		"id_number":["1245","_2a0h0a0a0e0d0a0e0b0_input","1"],
+		"country_issue":["ALBANIA","_2a0h0a0a0e0d0a0f0b0_input","3"],
+		"date_issue2" :["01 Mar 2021","_2a0h0a0a0e0d0a0h0b0_input","4"],
+		"date_expiry2" :["31 Mar 2021","_2a0h0a0a0e0d0a0i0b0_input","4"],
+		"confirm":["confirm","_2a0h0a0a0e0d3d","0"],
+
+		"town":["Esfahan","_2a0h0a0a0e0a0a2a10c0b0_input","1"],
+		"province":["Esfahan","_2a0h0a0a0e0a0a2a10d0b0_input","1"],
+		"country_birth":["IRAN","_2a0h0a0a0e0a0a2a10e0b0a_input","3"],
+
+		"relationship_status":["Married","_2a0h0a0a0e0a0a2a12c0b0a_input","3"],
+
+		"citizenship":["1","_2a0h0a0a0e0a0a2a14c1b0a","2"],
+		"citizenship2":["2","_2a0h0a0a0e0a0a2a14d1b0a","2"],
+
+		"other_proposal":["2","_2a0h0a0a0e0a0a2a15c1b0a","2"],
+		"other_id_document":["2","_2a0h0a0a0e0a0a2a16c1b0a","2"],
+		"health_exam":["2","_2a0h0a0a0e0a0a2a19c1b0a","2"],
+		"next3btn":["next","_2a0h0a0a0g1","0"]
+	}
+	
+}
+
+
+
